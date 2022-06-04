@@ -20,12 +20,6 @@ def staat(qq):
     "reply_markup": {
         "inline_keyboard": [
             [
-                {
-
-                }, 
-                {
-
-                }
             ]
         ]
     }
