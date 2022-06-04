@@ -21,12 +21,10 @@ def staat(qq):
         "inline_keyboard": [
             [
                 {
-                    "text": "Add me to your Group",
-                    "url": "https://t.me/SLCovid19_Bot?startgroup=new"
+
                 }, 
                 {
-                    "text": " Channel",
-                    "url": "https://t.me/Theekshana_Official"
+
                 }
             ]
         ]
